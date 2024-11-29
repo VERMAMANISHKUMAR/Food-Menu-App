@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Features and Functionality Breakdown
 ## HTML File (index.html)
 Page Title and Metadata:
@@ -81,3 +82,7 @@ Layout ensures compatibility across various screen sizes.
 
 
 
+=======
+<h2>Food menu App Project</h2>
+<p>Food menu App Project Link :- https://vermamanishkumar.github.io/Food-Menu-App/</p>
+>>>>>>> ee4b48b4ea831728ae981bd2f7535db9976be19a
